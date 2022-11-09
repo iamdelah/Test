@@ -1,0 +1,131 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-size: cover;
+}
+	
+
+body {
+		background: crimson;
+	}
+
+.wrapper {
+	width: 1200px;
+	height: 660px;
+	background-color: darkblue;
+	margin-left: 100px;
+	margin-top: 70px;
+	align-items: center;
+	align-content: center;
+	padding: 2rem 1rem;
+	display: flex;
+	flex-direction: column;
+	
+}
+
+.hero {
+	
+}
+h2 {
+	color: white;
+	margin-left: 90px;
+	margin-top: 60px;
+	text-transform: capitalize;
+
+}
+span {
+	color: violet;
+}
+.hero ul {
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	gap: 40px;
+	color: white;
+	margin-left: 500px;	
+}
+.hero ul li {
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	color: white;
+	
+
+}
+.hero ul li a {
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	color: white;
+	justify-content: space-around;
+	
+}
+.btn1 {
+	border: none;
+	outline: none;
+	background: #1877f2;
+	padding: 0.8rem 1rem;
+	color: #fff;
+}
+.btn1:hover{
+	cursor: pointer;
+}
+.hey {
+	display: flex;
+}
+.content-area {
+	margin-left: 50px;
+	margin-top: 600ppx;
+	padding-left: 80px;
+	padding-top: 140px;
+	justify-items: center;
+	font-size: 100px;
+}
+h6 {
+	text-transform: capitalize;
+	color: white;
+	font-family: serif;
+	font-size: 12px;
+}
+h1 {
+	text-transform: capitalize;
+	color: white;
+	font-family: serif;
+	font-size: 70px;
+}
+h3 {
+	text-transform: capitalize;
+	color: white;
+	font-family: serif;
+	font-size: 30px;
+}
+.btn2 {
+	border: none;
+	outline: none;
+	background: darkred;
+	padding: 0.8rem 1rem;
+	color: white;
+}
+.btn2:hover{
+	cursor: pointer;
+}
+.btn3 {
+	border: none;
+	outline: none;
+	background: darkred;
+	padding: 0.8rem 1rem;
+	color: white;
+}
+.btn3 a{
+	color: white;
+}
+.btn3:hover{
+	cursor: pointer;
+}
+.banner img{
+	margin-left: 140px;
+	height: auto;
+	width: 280px;
+	margin-top: 140px;
+}

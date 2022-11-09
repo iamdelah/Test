@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    align-items: center;
+    padding-left: 530px;
+    padding-top: 100px;
+    margin: 20px;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+p { 
+    color: white;
+    align-items: center;
+    padding-left: 500px;
+
+
+}
+form {
+
+}
+form input {
+
+}
+input {
+    caret-color: red;
+
+}
+h6 {
+    color: white;
+    align-items: center;
+    padding-left: 500px;
+  
+
+}
+.btn1 {
+    margin-left: 500px;
+    width: 500px;
+    height: 40px;
+
+
+}
+.btn3 {
+    margin-left: 500px;
+    width: 500px;
+    height: 90px;
+    
+
+}
+.btn4 {
+    margin-left: 500px;
+    width: 500px;
+    height: 60px;
+
+}
+
+
